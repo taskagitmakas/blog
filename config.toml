@@ -1,4 +1,4 @@
-baseURL = "https://competent-snyder-465e3c.netlify.com"
+baseURL = "https://usk.netlify.com"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "KeepIt"
@@ -42,7 +42,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2012
     author = "Fastbyte01"               # Author's name
-    subtitle = "A Hugo theme"       # Subtitle
+    subtitle = "Safa Kısıkçılar"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
@@ -66,7 +66,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params.social]
     GitHub = "xxxx"
-    Linkedin = "xxxx"
+    Linkedin = "linkedin.com/in/safakisikcilar"
     Twitter = "xxxx"
     #Instagram = "xxxx"
     #Email   = "xxxx"
