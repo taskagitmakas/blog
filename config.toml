@@ -41,7 +41,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     since = 2012
-    author = "Fastbyte01"               # Author's name
+    author = "USKisikcilar"               # Author's name
     subtitle = "Yet another simple person"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
@@ -65,12 +65,12 @@ disqusShortname = "yourdiscussshortname"
 
 
 [params.social]
-    GitHub = "xxxx"
+    #GitHub = "usafak"
     Linkedin = "safakisikcilar"
-    Twitter = "xxxx"
+    Twitter = "uskisikcilar"
     #Instagram = "xxxx"
-    #Email   = "xxxx"
-    Facebook = "xxxx"
+    Email   = "kisikcilar@gmail.com"
+    #Facebook = "xxxx"
     #Telegram = "xxxx"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
@@ -97,7 +97,7 @@ disqusShortname = "yourdiscussshortname"
     #Paypal = "xxxx"
     #Fivehundredpx = "xxxx"
     #Mix = "xxxx"
-    #Goodreads = "xxxx"
+    Goodreads = "xxxx"
     #Lastfm = "xxxx"
     #Foursquare = "xxxx"
     #Hackernews = "xxxx"
@@ -140,10 +140,10 @@ Linkedin = true
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [author]
-  name = "Fastbyte01"
+  name = "USKisikcilar"
 
   [params.publisher]
-    name = "Fastbyte01"
+    name = "USKisikcilar"
 
     [params.publisher.logo]
       url = "logo.png"
