@@ -1,7 +1,7 @@
 baseURL = "https://usk.netlify.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "KeepIt"
+title = "Safa Kısıkçılar"
 theme = "KeepIt"
 
 paginate = 12
@@ -42,7 +42,7 @@ disqusShortname = "yourdiscussshortname"
 [params]
     since = 2012
     author = "Fastbyte01"               # Author's name
-    subtitle = "Safa Kısıkçılar"       # Subtitle
+    subtitle = "Yet another simple person"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
