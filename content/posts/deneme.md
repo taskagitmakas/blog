@@ -9,67 +9,46 @@ tags:
   - Trial
 ---
 
-Deneme 1-2-3-4-5-6-7-8-9
+Aşağıdaki 20 maddeyi okumak en fazla 6-7 dakikanızı alacak. Ama yorulan beynimizi de bu sayede daha iyi dinlendirmek için gerekli tüyoları alacaksınız…
 
+1- Beyin açık havadayken ve ayaktayken daha iyi çalışır. İnsan beyninin ayaktayken yaklaşık yüzde 10 daha fazla çalıştığı düşünülmektedir. Önemli kararlar alırken açık havada veya doğada deneyebilirsiniz.
 
+2 – Yürürken kolları sallamak beynin performansını olumlu etkiliyor. Önemli kararlarınızı açık havada, kollarınızı sağa sola sallayarak yürürken almaya ne dersiniz?
 
+3- Yabancı bir dil öğrenme beyni güçlendiriyor. Her gün birkaç yeni kelime öğrenip, kullanabilirsiniz. Sözlük okuyabilirsiniz.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+4- Zihinsel jimnastik/antrenman yapın. Bunun için çeşitli bulmacaları çözebilirsiniz. Satranç gibi akıl oyunları oynayın.
 
-> An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide, and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe, and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.[^1]
+5 – Rutin olarak tekrar ettiğiniz davranışlardan vazgeçin. Bazen telefonu sol elinizde tutun, çantanızı diğer elinizle taşıyın, evinize başka bir yoldan gidin.
 
----
+6 – Entelektüel zevklerinizi geliştirmek için her gün mutlaka iyi bir özdeyiş antolojisinden birkaç cümle okuyun. Beyninizi kaliteli cümlelerle besleyin.
 
-Inline styles：
+7 – Her gün güzel bir resme veya fotoğrafa bakmaya çalışın. Estetik algınız, gördüğünüz estetik şeyler kadar gelişir.
 
-**strong**, *emphasis*, ***strong and emphasis***,`code`, <u>underline</u>, ~~strikethrough~~, :joy:🤣, $\LaTeX$, X^2^, H~2~O, ==highlight==, [Link](https://example.com), and image:
+8 – Sevdiğiniz bir müziği bir süre gözleriniz kapalı dinleyin. Beyin otoriteleri tarafından klâsik müziğin zekâya 7 puan ekleyebildiği iddia edilmektedir.
 
-![img](https://picsum.photos/600/400/?random)
+9 – Günde aklınızdan 60 bin ile 80 bin arası düşünce geçer. Bu düşünceler ne hakkındaysa, hayatınız da ona göre şekillenir. Unutmayın, kafanızda en çok neyi düşünürseniz, hayatınızda da onu çoğaltırsınız.
 
----
+10 – Bir konu hakkında düşünürken, nasıl düşündüğünüzü de gözlemleyin. Düşünmek üzerine düşünmek, beyin ve düşünce kapasitesini artırır.
 
-Headings:
+11 – İyi bir uyku kaliteli bir beyin için şarttır. Çok uyuyorum diye üzülmeyin. Einstein’ın günlük 10 saatten fazla uyuduğu biliniyor.
 
-# Heading 1
+12 – Bol ve temiz oksijen beyin için çok önemlidir. Beynimiz ağırlık olarak vücudumuzun yüzde 2’sini oluşturduğu halde, vücuda gelen oksijenin yüzde 25’ini tüketir. Bunun için hayatınıza bol bol oksijen dahil etmeye çalışın.
 
-## Heading 2
+13 – Farklı düşünme tarzları beyninizi geliştirir. Çocuklar ve hayvanlarla daha fazla vakit geçirin. Sizden farklı düşünen insanlarla konuşun.
 
-### Heading 3
+14 – Kullanılmayan organ körelir. Sürekli televizyon seyrederek beyninizi “düşük viteste çalıştırmayın.
 
-#### Heading 4
+15 – Beyin odaklanılan hedef olumsuz olsa bile, bunu gerçekleştirmek için çalışır. Topluluk önünde konuşma yaparken “acaba heyecanlanır mıyım?” diye düşünürseniz, heyecanlanırsınız.
 
-##### Heading 5
+16 – Beyni yoran monotonluktur. Hayatınızı ne kadar renklendirirseniz, beyninizi o kadar neşelendirirsiniz.
 
-###### Heading 6
+17 – Beyin kısa süreli hafızada beş ile yedi arasındaki bilgiyi işleyebilir. Yeni bir bilgi gelince, bu bilgilerden birini atar. Buna “sihirli sayı” kuralı denir. Bu kural aşılıp aşırı bilgi yüklenmesi durumunda beynimiz “servis dışı” olur. Hayatınızın en büyük kararlarını alırken “kafadan “ değil, tıpkı beş haneli iki rakam grubunu çarparken yaptığınız gibi, bir kâğıt üzerine yazarak ne yapacağınızı hesaplayın.
 
-Table:
+18 – Sağlam kafa sağlam vücutta bulunur. Fiziksel zindelik, zihinsel zindelik getirir. Uzun süre hareketsiz kalmak, zihni de hareketsizleştirir. Spor yapmaya, fazla kilolarınızdan kurtulmaya özen gösterin. Yeterince su için. Çünkü, insan beyninin yüzde 78’i su ile kaplıdır.
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ | :-------------: | ------------: |
-| col 3 is      | some wordy text |         $1600 |
-| col 2 is      |    centered     |           $12 |
-| zebra stripes |    are neat     |            $1 |
+19 – Ders çalışırken ilk öğrenilenler, son öğrenilenler, sık tekrarlananlar ve ilginç bulunanlar en çok akılda kalanlardır. Dersleri kısa aralar vererek çalışmak akıllıca bir harekettir.
 
-Lists:
+20 – Bu hafta kafanızı nasıl daha iyi çalıştırabileceğiniz üzerine daha fazla düşünün. Unutmayın, beynimizi daha iyi çalıştırmak için kullanacağımız organ yine beynimiz. Aklınızı “başınıza” toplayın ve kullanın.
 
-* Unordered list item 1.
-* Unordered list item 2.
-
-1. ordered list item 1.
-2. ordered list item 2.
-   + sub-unordered list item 1.
-   + sub-unordered list item 2.
-     + [x] something is DONE.
-     + [ ] something is NOT DONE.
-
-Syntax Highlighting:
-
-```javascript
-var num1, num2, sum
-num1 = prompt("Enter first number")
-num2 = prompt("Enter second number")
-sum = parseInt(num1) + parseInt(num2) // "+" means "add"
-alert("Sum = " + sum)  // "+" means combine into a string
-```
-
-[^1]: From https://en.wikipedia.org/wiki/Apple
+Kaynak: Birden çok yerde yayınlandığı için ilk derleyenin kim olduğu bilgisine net olarak ulaşamadık. Ancak bilgiler Mümin Sekman tarafından hazırlanan “Beynine İyi Bak!” adlı kitapçıktan derlenmiştir.
