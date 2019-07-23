@@ -16,3 +16,5 @@ Link state protokollerde her router üzerindeki IP network'leri - cost değerler
 Link state network'lerde yeni bir güncelleme yayılması gerektiğinde, bu bilgi networke dahil olan bütün router'lara aktarılarak sağlanacaktır. Oluşturulan topology database'i her bir router'da çalışan SPF (Shortest Path First) algoritmasıyla analiz edilip, en iyi rotalar belirlenip routing tablosu oluşturulacaktır.
 
 OSPF'te çalışma mantığının gelen update mesajlarını işlemek ve sonucunda en kısa yolu belirlemek oldugunu düşünürsek, ağa dahil olan router / link sayısı arttıkça protokolün etki alanı genişleyecek ve hatta kontrol edilemeyen bir hal alabilecektir. Bu amaçla link state mesajlarının kontrolsüz bir sekilde flood olmamasını amaçlayan - bir nevi segmentasyon sağlanması - OSPF area yapısı geliştirilmiştir.  
+
+denemetest123
