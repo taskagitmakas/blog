@@ -24,10 +24,10 @@ disqusShortname = "yourdiscussshortname"
  posts = "/:year/:filename/"
 
 [menu]
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts/"
-    weight = 1
+  #[[menu.main]]
+  #  name = "Blog"
+  #  url = "/posts/"
+  #  weight = 1
 
   [[menu.main]]
     name = "Categories"
