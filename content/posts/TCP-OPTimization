@@ -1,0 +1,48 @@
+TCP-OPTimization
+
+
+
+
+sudo sysctl net.ipv4.conf.eth0.forwarding=1
+sudo sysctl net.ipv4.conf.wlan0.forwarding=1
+
+
+
+sudo /opt/versa/scripts/staging.py -l SDWAN-Branch@Provider.com -r Controller-1-staging@Provider.com -n branch2 -c 176.53.66.57 -s 10.10.126.79/24 -g 10.10.126.254 -w 0
+
+
+branch1
+WAN:10.187.2.118 255.255.255.0 10.187.2.250 
+LAN:10.187.2.119 255.255.255.0 10.187.2.250
+
+branch2
+WAN:10.10.126.79 255.255.255.0 10.10.126.254 => 
+LAN:10.10.20.70 255.255.255.0 10.10.20.254
+
+
+
+
+target:2L:2
+
+target:25L:25
+
+target:26L:26
+
+
+global-vrf-id          2;
+networks               [ LAN ];
+mpls-vpn-core-instance Versa-Control-VR;
+route-distinguisher    8002L:103;
+vrf-import-target      "target:16002L:0 target:25L:25";
+vrf-export-target      target:8002L:103;
+vrf-both-target        target:2L:2;
+routing-options {
+    static {
+        route {
+            0.0.0.0/0 192.168.131.100 none {
+                tag 0;
+            }
+        }
+    }
+}
+[ok][2020-01-31 05:10:45]
