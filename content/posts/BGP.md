@@ -1,7 +1,7 @@
 ---
 title: "BGP"
 date: 2020-01-02T17:34:33+08:00
-draft: false
+draft: true
 featuredImg: ""
 tags: 
   - BGP

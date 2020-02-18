@@ -1,7 +1,7 @@
 ---
 title: "Sarabi"
 date: 2020-17-02T09:12:33+08:00
-draft: false
+draft: true
 featuredImg: ""
 tags: 
   - Beyoglu

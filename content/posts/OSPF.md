@@ -1,7 +1,7 @@
 ---
 title: "OSPF"
 date: 2019-07-23T16:16:33+08:00
-draft: false
+draft: true
 featuredImg: ""
 tags: 
   - OSPF

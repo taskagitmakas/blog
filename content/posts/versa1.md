@@ -1,6 +1,6 @@
 title: "versa"
 date: 2020-01-21T08:34:33+08:00
-draft: false
+draft: true
 featuredImg: ""
 tags: 
   - VERSA
@@ -50,3 +50,6 @@ EDIT: It seems that in this configuration you need to manually add IP forwarding
 
 echo 1 > /proc/sys/net/ipv4/ip_forward
 and I was able to ping both endpoints from each other. This is just a temporary change, so if you reboot it will revert to not forwarding. I haven't tried it yet but apparently this is controlled by the file /etc/network/options, so you can edit this and change ip_forward=no to ip_forward=yes and the change should be permanent.
+
+
+
