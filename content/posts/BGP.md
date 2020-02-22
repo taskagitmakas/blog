@@ -18,3 +18,5 @@ Link state network'lerde yeni bir güncelleme yayılması gerektiğinde, bu bilg
 OSPF'te çalışma mantığının gelen update mesajlarını işlemek ve sonucunda en kısa yolu belirlemek oldugunu düşünürsek, ağa dahil olan router / link sayısı arttıkça protokolün etki alanı genişleyecek ve hatta kontrol edilemeyen bir hal alabilecektir. Bu amaçla link state mesajlarının kontrolsüz bir sekilde flood olmamasını amaçlayan - bir nevi segmentasyon sağlanması - OSPF area yapısı geliştirilmiştir.  
 
 3 katının 3'e bölümü 17 olan sayı 4'tür.
+
+test12345
